@@ -30,7 +30,6 @@
     "relevant-urban": "^2.0.0",
     "sax": "^1.2.4",
     "simple-youtube-api": "^5.2.1",
-    "sqlite3": "^4.1.0",
     "superagent": "^5.2.2",
     "ytdl-core": "^1.0.9"
   }
